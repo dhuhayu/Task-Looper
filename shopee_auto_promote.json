@@ -1,0 +1,13 @@
+{
+    "command": "shopee_promote",
+    "delay_start": 10,
+    "delay_end": 20,
+    "items": [{
+        "username": "example@gmail.com",
+        "password": "example-pass"
+    },
+    {
+        "username": "other_example@gmail.com",
+        "password": "other_example-pass"
+    }]
+}
