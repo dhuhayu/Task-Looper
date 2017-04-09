@@ -9,7 +9,7 @@ echo -
 
 :sub_execute_promote
 echo --------------------------------------
-echo Execute: Shopee Auto Promote
+echo Execute: Tokopedia Auto Promote
 echo -
 
 curl -H "Content-Type: application/json" -X POST --data "@tokopedia_auto_promote.json" http://localhost:9912/api/injector_task
